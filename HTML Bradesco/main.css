@@ -1,0 +1,15 @@
+
+header {
+    text-shadow: 2px 2px 2px black;
+    background-color: blue;
+}
+
+header > p:hover {
+    background-image: -webkit-gradient(10px 10px 0);
+    background-color: aqua;
+    color: brown;
+}
+
+footer {
+    background-color: blue;
+}
